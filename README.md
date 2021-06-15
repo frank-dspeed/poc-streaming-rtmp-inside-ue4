@@ -19,3 +19,10 @@ Demo UE4 PixelEngine RTMP
 - https://github.com/aws-samples/deploying-unreal-engine-pixel-streaming-server-on-ec2
 - https://docs.aws.amazon.com/de_de/gamelift/latest/developerguide/integration-engines-setup-unreal.html
 - https://docs.unrealengine.com/4.26/en-US/SharingAndReleasing/PixelStreaming/PixelStreamingIntro/
+
+
+
+###
+- https://stackoverflow.com/questions/63033366/processing-webrtc-rtc-stream-in-node-js-server-with-ffmpeg
+- https://github.com/medooze/media-server-demo-node
+- https://github.com/medooze/media-server-node
